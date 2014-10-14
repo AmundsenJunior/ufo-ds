@@ -38,4 +38,5 @@ ln [3]: exit
 
 All set, up and running! That’s it for now.
 
+----
 [Link to original post](http://scotterenaissance.tumblr.com/post/97137337033/ufo-data-science-resources-and-environment)
