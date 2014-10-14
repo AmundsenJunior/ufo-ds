@@ -30,7 +30,7 @@ However, there are also mentions of town name in the Summary. This grep then loo
 * ```-A --after-context=NUM``` print *NUM* lines of trailing context.
 
 ```
-$grep -A 1 -i "a href" grep_nuforc_ct.txt > grep_nuforc_haven.txt
+$ grep -A 1 -i "a href" grep_nuforc_ct.txt > grep_nuforc_haven.txt
 ```
 
 We then take our Bash foo to level two with piping in multiple commands, reducing the pile of data files down in the process. I had to go through the long process above to learn ```grep``` before piping commands together.
