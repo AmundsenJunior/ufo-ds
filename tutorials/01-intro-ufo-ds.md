@@ -28,4 +28,5 @@ Full disclosure: I’m a believer. Had a sighting when I was six years old that,
 
 So today, on World UFO Day 2014, I’m starting my extended close encounter (for the first time) with data science. I’m not approaching this as a complete novice, but my Python and spatial analysis experience only brings me to this point feeling that I know little but want to learn so much. I’ll update here on my progress, providing what I experience as new insights and skills inasmuch as they are useful and transferable.
 
+----
 [Link to original post](http://scotterenaissance.tumblr.com/post/90564622493/introduction-to-data-science-through-ufos)
